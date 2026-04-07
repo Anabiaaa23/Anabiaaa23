@@ -1,7 +1,8 @@
 ## Olá!! Eu sou Ana Beatriz
 
 - 👩‍🎓 Eu sou Estudante de Engenharia de Robôs!
-- 
+- 🤖 Apaixonada por tecnologia e robótica
+- 🎓 Técnica em Informática pelo IFTO
 
   <div>
   <a href= "https://github.com/Anabiaaa23">
