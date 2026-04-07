@@ -4,9 +4,7 @@
 - 🤖 Apaixonada por tecnologia e robótica
 - 🎓 Técnica em Informática pelo IFTO
 
-  <div>
-  <a href= "https://github.com/Anabiaaa23">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=anabeatriz&show_icons=true&theme=gruvbox"/>
+  
     
 </div>
 
