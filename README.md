@@ -1,8 +1,7 @@
 ## Olá!! Eu sou Ana Beatriz
 
-- 👩‍🎓 Eu sou Estudante do Instituto Federal de Ciência e Tecnologia do Tocantins!!
-- 🌱 Estou cursando o 3° ano de informática.
-- 🔭 Pronomes: Ela/Dela
+- 👩‍🎓 Eu sou Estudante de Engenharia de Robôs!
+- 
 
   <div>
   <a href= "https://github.com/Anabiaaa23">
